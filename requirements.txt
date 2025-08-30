@@ -1,0 +1,10 @@
+transformers
+scipy
+python-dotenv
+requests
+scikit-learn
+tqdm
+seaborn
+torch
+matplotlib
+numpy
